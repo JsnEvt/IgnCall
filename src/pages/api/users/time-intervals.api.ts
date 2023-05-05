@@ -14,7 +14,7 @@ const timeIntervalsBodySchema = z.object({
   ),
 })
 
-export default async function hadler(
+export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse,
 ) {
@@ -46,7 +46,5 @@ export default async function hadler(
     }),
   )
 
-  return res.json({
-    session,
-  })
+  return res.status(201).end()
 }

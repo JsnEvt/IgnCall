@@ -8,7 +8,7 @@ const updateProfileBodySchema = z.object({
   bio: z.string(),
 })
 
-export default async function hadler(
+export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse,
 ) {

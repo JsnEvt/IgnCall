@@ -24,7 +24,7 @@ export function ConfirmStep() {
     resolver: zodResolver(confirmFormSchema),
   })
 
-  function handleConfirmScheduling(data: ConfirmFormData) { }
+  function handleConfirmScheduling(data: ConfirmFormData) {}
 
   return (
     <ConfirmForm as={'form'} onSubmit={handleSubmit(handleConfirmScheduling)}>
