@@ -41,7 +41,7 @@ export function ConfirmStep({
   async function handleConfirmScheduling(data: ConfirmFormData) {
     const { name, email, observations } = data
 
-    await api.post(`/user/${username}/schedule`, {
+    await api.post(`/users/${username}/schedule`, {
       name,
       email,
       observations,
@@ -77,7 +77,7 @@ export function ConfirmStep({
         )}
       </label>
       <label>
-        <Text size={'sm'}>Nome completo</Text>
+        <Text size={'sm'}>Email</Text>
         <TextInput
           type="email"
           placeholder="johndoe@example.com"

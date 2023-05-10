@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-page-custom-font */
+/* eslint-disable @next/next/no-document-import-in-page */
 import { getCssText } from '@ignite-ui/react'
 import { Head, Html, Main, NextScript } from 'next/document'
 
