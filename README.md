@@ -169,6 +169,11 @@ As seguintes principais ferramentas foram usadas na construção do projeto:
 - **[next-seo](https://github.com/garmeeh/next-seo)**
 - **[dayjs](https://day.js.org/)**
 
+
+### Instrutor: CTO da [Rocketseat](https://rocketseat.com.br/) :rocket: Diego Fernandes
+<td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/2254731?s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>Diego Fernandes</b></sub>
+</a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
+
 ## 🦸 Autor
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jason-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-everton/)](https://www.linkedin.com/in/jason-everton/)
