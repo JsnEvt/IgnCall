@@ -180,6 +180,11 @@ As seguintes principais ferramentas foram usadas na construção do projeto:
 
 [![Gmail Badge](https://img.shields.io/badge/-jasonemsw10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasonemsw10@gmail.com)](mailto:jasonemsw10@gmail.com)
 
+## 📝 License
+
+Este projeto está sob a licença MIT.
+
+
 Feito por Jason Everton 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jason-everton)
 
 
